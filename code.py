@@ -1,6 +1,6 @@
 variable = "hello world"
 
-print("hello world")
+print(variable)
 
 first_name = "Joe"
 last_name = "Smith"
